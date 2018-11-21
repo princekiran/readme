@@ -1,0 +1,36 @@
+Essential Duties
+Strongly serving the Product Owner and Development Team in their quest to do everything possible to delight customers
+Guiding the team and organization on how to use Agile/Scrum practices and values
+Guiding the team on how to get the most of out of selforganization
+Guiding the team on selforganizing to fill in the intentional gaps left in the Agile/Scrum frameworks
+Assessing the Scrum Maturity of the team and organization and coaching the team to higher levels of maturity, at a pace that is sustainable and comfortable for the team and organization
+Removing impediments or guiding the team to remove impediments by finding the right personnel to remove the impediment.
+Building a trusting and safe environment where problems can be raised without fear of blame, retribution, or being judged, with an emphasis of healing and problem solving.
+Facilitating getting the work done without coercion, assigning, or dictating the work.
+Facilitating discussion, decision making, and conflict resolution
+Assisting with internal and external communication, improving transparency, and radiating information
+Supporting and educating the Product Owner, especially with respect to grooming and maintaining the product backlog.
+Providing all support to the team using a servant leadership style whenever possible, and leading by example
+
+PERSON SPECIFICATION
+
+Essential Requirements (skills, Knowledge Experience & Qualification)
+First level Scrum Master certification (CSM, PSM I)
+Experience playing the Scrum Master role for at least 2 years for a software development team that was diligently applying Scrum principles, practices, and theory.
+Good skills and knowledge of servant leadership, facilitation, situational awareness, conflict resolution, continual improvement, empowerment, and increasing transparency
+Knowledge of numerous well documented patterns and techniques for filling in the intentional gaps left in the Scrum approach(example: numerous Burn-down techniques, numerous Retrospective formats, handling bugs, etc)
+
+
+Desirable Requirements (leadership & Team/project Capabilities)
+Second level Scrum Master certification (CSP, PSM II)
+Knowledge of other Agile approaches: XP, Kanban, Crystal, FDD, etc
+Knowledge and/or experience with widely successful Agile techniques: User Stories, ATDD, TDD, Continuous Integration, Continuous Testing, Pairing, Automated Testing, Agile Games
+Applicable knowledge of the technologies used by the team
+Experience applying a wide variety of well documented patterns and techniques for filling in the intentional gaps left in the Scrum approach(example: numerous Burndown techniques, numerous Retrospective formats, handling bugs,etc)
+Previous experience as a team lead or Manager
+Excellent communication and mentoring skills
+Seniority Level
+Mid-Senior level
+
+Industry
+Marketing & Advertising Information Technology & Services
